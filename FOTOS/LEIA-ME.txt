@@ -1,0 +1,48 @@
+NOMES DAS FOTOS
+
+Regras:
+- Use barra normal nos caminhos (FOTOS/arquivo.jpg). No GitHub, mantenha as pastas FOTOS, FOTOS/SOBRE e FOTOS/VIDEOS exatamente assim, em maiúsculas.
+- Formato .jpg (também aceita .jpeg, .png e .webp).
+- Nome do arquivo em minúsculas, sem acento e sem espaço (use hífen). O GitHub diferencia maiúsculas de minúsculas.
+- Se uma foto não existir, o app mostra uma ilustração no lugar.
+
+== PRODUTOS (pasta FOTOS) ==
+PRODUTO                                  CATEGORIA          ARQUIVO
+------------------------------------------------------------------------------------------
+Pernil Especial                          Sanduíches         FOTOS/pernil-especial.jpg
+Pernil                                   Sanduíches         FOTOS/pernil.jpg
+Falafel                                  Sanduíches         FOTOS/falafel.jpg
+Linguiça Blumenau                        Sanduíches         FOTOS/linguica-blumenau.jpg
+Frango e Bacon                           Sanduíches         FOTOS/frango-e-bacon.jpg
+Frango                                   Sanduíches         FOTOS/frango.jpg
+Cogumelo                                 Sanduíches         FOTOS/cogumelo.jpg
+Caprese                                  Sanduíches         FOTOS/caprese.jpg
+Carne de Panela                          Sanduíches         FOTOS/carne-de-panela.jpg
+Mignon                                   Sanduíches         FOTOS/mignon.jpg
+Chips                                    Acompanhamentos    FOTOS/chips.jpg
+Salada Caesar                            Acompanhamentos    FOTOS/salada-caesar.jpg
+Sanduíche de doce de leite Aviação       Doces              FOTOS/sanduiche-de-doce-de-leite-aviacao.jpg
+Sanduíche de doce de leite com BACON     Doces              FOTOS/sanduiche-de-doce-de-leite-com-bacon.jpg
+Rabanada com sorvete                     Doces              FOTOS/rabanada-com-sorvete.jpg
+Rabanada Brûlée                          Doces              FOTOS/rabanada-brulee.jpg
+Brigadeiro de colher                     Doces              FOTOS/brigadeiro-de-colher.jpg
+Cappuccino                               Cafés              FOTOS/cappuccino.jpg
+Café caramelo salgado                    Cafés              FOTOS/cafe-caramelo-salgado.jpg
+Café doce de leite Aviação               Cafés              FOTOS/cafe-doce-de-leite-aviacao.jpg
+Box de mini sanduíches                   Boxes              FOTOS/box-de-mini-sanduiches.jpg
+
+== SOBRE (pasta FOTOS/SOBRE) ==
+Guilherme Suenil     FOTOS/SOBRE/guilherme-suenil.jpg
+Milena Suenil        FOTOS/SOBRE/milena-suenil.jpg
+Fachada              FOTOS/SOBRE/fachada.jpg
+
+== CAPAS DOS VÍDEOS (pasta FOTOS/VIDEOS, opcional) ==
+Reel 1 (Bastidores)  FOTOS/VIDEOS/reel-1.jpg
+Reel 2 (SANDUbrunch) FOTOS/VIDEOS/reel-2.jpg
+Reel 3 (Monte o seu) FOTOS/VIDEOS/reel-3.jpg
+
+
+== STATUS ==
+Já incluídas: sanduíches (exceto Mignon), chips, salada Caesar, doces (exceto Rabanada Brûlée), cafés, bebidas, maioneses e molho Caesar, box de mini sanduíches.
+Faltam: mignon, rabanada-brulee, chantilly, queijo-mucarela, bacon.
+Capas provisórias em FOTOS/VIDEOS.
